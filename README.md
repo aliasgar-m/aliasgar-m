@@ -17,7 +17,7 @@ Oh, just you watch" - Legends Are Made by Sam Tinnesz
 ## CODING STATS
 <p align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aliasgar-m&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgar-m&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgar-m&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
 </p>
 
 ## STREAK STATS
