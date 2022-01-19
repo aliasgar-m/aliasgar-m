@@ -12,7 +12,7 @@ Oh, just you watch" - Legends Are Made by Sam Tinnesz
 - 👯 I am looking to collaborate on projects in A.I
 - 📫 How to reach me: aliasgarm2000@gmail.com
 - 😄 Pronouns: He/him
-- 📝 [Resume](https://drive.google.com/file/d/1hZFy1O04OKdEhjNJTUGGNEG06TXIw9ZD/view?usp=sharing).
+- 📝 [Resume]()
 
 ## CODING STATS
 <p align = "center">
