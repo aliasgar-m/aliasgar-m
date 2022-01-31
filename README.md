@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aliasgar-merchant)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_aliasgar007_/)
 
-A Mechanical Engineer with a penchant for Artificial Intelligence and its sub-domains. I want to develop a Natural Language conversational AI system similar to [J.A.R.V.I.S](https://marvelcinematicuniverse.fandom.com/wiki/J.A.R.V.I.S.) capable of reasoning and speech. It is a tough journey but I will move forward.
+A Mechanical Engineer with a penchant for Artificial Intelligence and its sub-domains. I want to develop a Natural Language conversational AI system similar to [J.A.R.V.I.S](https://marvelcinematicuniverse.fandom.com/wiki/J.A.R.V.I.S.) capable of reasoning and speech. It is a tough journey but I will keep hustling.
 
 ## Here are a few things about me
 - 🤘 "I'm like a titan that's risin',
