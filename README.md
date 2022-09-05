@@ -10,7 +10,7 @@ A Mechanical Engineer with a penchant for Artificial Intelligence and its sub-do
 Oh, just you watch" - Legends Are Made by Sam Tinnesz
 - 🔭 I am currently developing a website titled "Introduction to Reinforcement Learning".
 - 👯 I am looking to collaborate on projects in A.I
-- 📫 How to reach me: aliasgarm2000@gmail.com
+- 📫 How to reach me: aliasgarm2000@gmail.com, amerch23@uic.edu
 - 😄 Pronouns: He/him
 - 📝 [Resume](https://drive.google.com/file/d/1GZJ-UcinslX5tDUE21wdb4tzEH40fgZh/view?usp=sharing)
 
