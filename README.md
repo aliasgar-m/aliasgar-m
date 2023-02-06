@@ -8,7 +8,7 @@ A Mechanical Engineer with a penchant for Artificial Intelligence and its sub-do
 ## Here are a few things about me
 - 🤘 "I'm like a titan that's risin',
 Oh, just you watch" - Legends Are Made by Sam Tinnesz
-- 🔭 I am currently developing a website titled "Introduction to Reinforcement Learning".
+<!-- - 🔭 I am currently developing a website titled "Introduction to Reinforcement Learning". -->
 - 👯 I am looking to collaborate on projects in A.I
 - 📫 How to reach me: aliasgarm2000@gmail.com, amerch23@uic.edu
 - 😄 Pronouns: He/him
